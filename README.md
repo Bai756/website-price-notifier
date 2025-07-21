@@ -7,7 +7,7 @@ A tiny script that scrapes a page in headless Chrome and sends an ntfy.sh notifi
 ## Install
 
 ```bash
-git clone https://github.com/Bai756/web-price-watcher.git
+git clone https://github.com/Bai756/web-price-notifier.git
 cd web-price-watcher
 pip install selenium webdriver-manager httpx schedule
 ```
