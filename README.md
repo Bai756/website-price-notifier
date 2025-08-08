@@ -14,10 +14,12 @@ pip install selenium webdriver-manager httpx schedule
 
 ## Usage
 
-To use, edit the top of the main function. Add your own urls and css-selectors, and change the ntfy_notifier url to your ntfy topic. Add as many `PriceScraper` instances as you want.
+To customize, edit the top of the main function. Add your own urls and css-selectors, and change the ntfy_notifier url to your ntfy topic. Add as many `PriceScraper` instances as you want.
 
 Then run:
 
 ```bash
 python main.py
 ```
+
+To get the notifications, download ntfy app and subscribe to the https://ntfy.sh/games topic.
