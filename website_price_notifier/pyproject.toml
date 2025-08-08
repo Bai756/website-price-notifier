@@ -1,6 +1,6 @@
 [project]
 name = "website-price-notifier"
-version = "1.1.1"
+version = "1.1.2"
 description = "A program that scraps websites for prices and notifies you about it."
 readme = "README.md"
 authors = [
